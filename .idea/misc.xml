@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/bg_skip_button.xml" value="0.1075" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/bg_tab_indicator.xml" value="0.1075" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/ic_error_icon.xml" value="0.1" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/ic_image_classification_l.xml" value="0.1085" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/ic_image_classification_s.xml" value="0.1085" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/ic_logo_pytorch.xml" value="0.1085" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/ic_vision_s.xml" value="0.1" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/drawable/image_classification_fpsms_bg.xml" value="0.1" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/layout/activity_recognition.xml" value="0.42168674698795183" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/layout/info.xml" value="0.203125" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/layout/result_row.xml" value="0.42168674698795183" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/layout/welcome_pager_page.xml" value="0.33" />
+        <entry key="..\:/Users/xiaom/Downloads/PyTorchDemoApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1075" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/drawable/result_row_progress_bar_top1.xml" value="0.1085" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/activity_image_classification.xml" value="0.5" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/activity_list_stub.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/activity_recognition.xml" value="0.21137206427688504" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/classification_result_row.xml" value="0.2" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/error_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/info.xml" value="0.33" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/list_card.xml" value="0.33" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/texture_view.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/layout/vision_list_content.xml" value="0.5" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/menu/menu.xml" value="0.33" />
+        <entry key="..\:/Users/xiaom/Downloads/pytorch-mobile-android-master/PyTorchDemoApp/app/src/main/res/menu/menu_model.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TSR</string>
+    <string name="welcome_skip_button">Пропустить</string>
+
+    <string name="info">Справка</string>
+
+    <string name="title">Распознавание дорожных знаков</string>
+    <string name="results_header_name">Дорожный знак</string>
+    <string name="results_header_score">Оценка</string>
+
+    <string name="welcome_page_1_description">Данное приложение предназначено для распознавания некоторых знаков дорожного движения РФ в режиме реального времени. </string>
+
+    <string name="welcome_page_2_title">Технологии</string>
+    <string name="welcome_page_2_description">Дорожный знак распознается с помощью предобученной модели свёрточной нейронной сети, написанной на фреймворке PyTorch.</string>
+
+    <string name="welcome_page_3_title">Руководство к использованию</string>
+    <string name="welcome_page_3_description">Для определения дорожного знака необходимо навести на него камеру.</string>
+
+    <string name="info_title">Значение оценки</string>
+    <string name="info_description"> Чем выше оценка, тем выше вероятность наличия знака. </string>
+</resources>
